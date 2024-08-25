@@ -21,5 +21,5 @@ For starters, they are named after teas, since i like tea more than coffee
 <details>
   <summary>CatBox Masala Chai</summary>
 
-  $${\color[HTML]{#e68d70}⬤}$$
+  $${\color{#e68d70}⬤}$$
 </details>
