@@ -60,3 +60,9 @@ For starters, they are named after teas, since i like tea more than coffee
 I also recommend the following zsh themes for this:
 
 - [Agnoster for CatBox light mode](https://github.com/Catbox-Themes/agnoster-catbox-compat/tree/main)
+
+## $${\color{red}Disclaimer}$$
+
+All of this is said in jest, i have huge respect for the catppuccin maintainers and i just wanted something a bit less harsh that is still compatible with catppuccin for ease of use :3
+
+Enjoy it if you will, hate me if you will, this is just work i put up publicly for others to see and/or use
