@@ -50,3 +50,7 @@ For starters, they are named after teas, since i like tea more than coffee
 | $${\color{#ebdbb2}⬤}$$ | Mantle    | #ebdbb2 |
 | $${\color{#d5c4a1}⬤}$$ | Crust     | #d5c4a1 |
 </details>
+
+## What programs have premade configs?
+
+- [VsCode](https://github.com/Catbox-Themes/vscode)
