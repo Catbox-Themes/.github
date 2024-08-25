@@ -10,7 +10,7 @@ To solve this, i made set of themes inspired by [Catpuccin](https://catppuccin.c
 
 ## Why?
 
-I love the coloring style of Catppuccin but i never enjoyed the lack of truly comfy/soothing lightmode, with the provided one feeling very sterile and eye searing. So i set out to make more themes that can be retrofitted into Catppuccin's existing extensions (that don't use custom colors) and ports with little more than a few find and replace operations!
+I love the coloring style of Catppuccin but i never enjoyed the lack of truly comfy/soothing lightmode, with the provided one feeling very sterile and eye searing. So i set out to make more themes that can be retrofitted into Catppuccin's existing extensions (that don't use custom colors) and ports with little more than a few find and replace operations! (check how close together some of these are for proof it's not too hard)
 
 This simplifies the swap for any prospective users, and means the theme already has a MASSIVE wealth of knowledge on how to effectively use it compared to if i made a whole new theme. My only hope here is people enjoy the theme :3
 
@@ -55,3 +55,8 @@ For starters, they are named after teas, since i like tea more than coffee
 
 - [VsCode](https://github.com/Catbox-Themes/vscode)
 - [CSS/SCSS](https://github.com/Catbox-Themes/CSS-SCSS)
+- [Kitty](https://github.com/Catbox-Themes/kitty)
+
+I also recommend the following zsh themes for this:
+
+- [Agnoster for CatBox light mode](https://github.com/Catbox-Themes/agnoster-catbox-compat/tree/main)
