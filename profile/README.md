@@ -56,6 +56,10 @@ For starters, they are named after teas, since i like tea more than coffee
 - [VsCode](https://github.com/Catbox-Themes/vscode)
 - [CSS/SCSS](https://github.com/Catbox-Themes/CSS-SCSS)
 - [Kitty](https://github.com/Catbox-Themes/kitty)
+- [KDE](https://github.com/Catbox-Themes/KDE)
+  - Support is imperfect. Use any global theme then manually change each thing to the CatBox theme.
+  - No cursors provided, i recommend Catppuccin latte dark.
+  - No splash provided
 
 I also recommend the following zsh themes for this:
 
