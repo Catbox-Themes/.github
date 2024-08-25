@@ -54,3 +54,4 @@ For starters, they are named after teas, since i like tea more than coffee
 ## What programs have premade configs?
 
 - [VsCode](https://github.com/Catbox-Themes/vscode)
+- [CSS/SCSS](https://github.com/Catbox-Themes/CSS-SCSS)
