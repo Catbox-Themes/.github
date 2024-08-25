@@ -22,4 +22,29 @@ For starters, they are named after teas, since i like tea more than coffee
   <summary>CatBox Masala Chai</summary>
 
   $${\color{#e68d70}⬤}$$
+  $${\color{#d87c7a}⬤}$$
+  $${\color{#df8f92}⬤}$$
+  $${\color{#a768f9}⬤}$$
+  $${\color{#d54d52}⬤}$$
+  $${\color{#f0606d}⬤}$$
+  $${\color{#f07f40}⬤}$$
+  $${\color{#da9413}⬤}$$
+  $${\color{#4cab38}⬤}$$
+  $${\color{#78bfb8}⬤}$$
+  $${\color{#60bfe5}⬤}$$
+  $${\color{#56adcf}⬤}$$
+  $${\color{#6c97e1}⬤}$$
+  $${\color{#9799ff}⬤}$$
+  $${\color{#322c2a}⬤}$$
+  $${\color{#473c36}⬤}$$
+  $${\color{#5a4f44}⬤}$$
+  $${\color{#6f6254}⬤}$$
+  $${\color{#847564}⬤}$$
+  $${\color{#988873}⬤}$$
+  $${\color{#ad9c86}⬤}$$
+  $${\color{#c1aa8e}⬤}$$
+  $${\color{#d8c1a4}⬤}$$
+  $${\color{#f2e5bc}⬤}$$
+  $${\color{#ebdbb2}⬤}$$
+  $${\color{#d5c4a1}⬤}$$
 </details>
